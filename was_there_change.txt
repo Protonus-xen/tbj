@@ -1,0 +1,72 @@
+**** Version 0.2.1 ****
+	Updated to version 0.98a-RC5.
+	Ships:
+		Added Ghostworld, a post-War sleepership originally intended to escape the struggle, now it is refitted to face it.
+		Unbanished:
+			Luddic Path can now use this ship according to its lore, albeit very sparingly.
+		Hek:
+			Spawn rate in ship roles is slightly reduced.
+		Prevalent:
+			Sprite overhaul and module adjustments.
+			Added 2 additional armor modules.
+			Bulk Jet Thrusters shipsystem changed to Ammo Feed.
+			Advanced Broadside Plan:
+				Non-Missile range increase to 100% from 60%. PD range remains at 60%.
+				Ballistic Flux Efficiency 10% changed to Non-Missile Flux Efficiency 20%.
+			Designation changed from Dreadnought to Juggernaut.
+			Hull slightly reverted from 18000 to 22000.
+			Cargo increased from 400 to 600.
+			Fuel Capacity increased from 450 to 600.
+			Base Value increased from 500000 to 750000.
+			Base Supply M/R and Deployment cost increased from 50 to 65.
+			Armor modules:
+				Hull increased from 5000 to 7500.
+				Armor increased from 800 to 1250.
+				Ordinance points increased from 310 to 320.
+
+**** Version 0.2.0-RC1 ****
+	Updated to version 0.97a-RC7.
+	Ships:
+		Variants are adjusted accordingly with recent vanilla weapon and hullmod balance changes.
+
+**** Version 0.2.0 ****
+	Updated to version 0.96a-RC10.
+	Ships:
+		Added Toshara, a pre-Collapse juggernaut that boasts its very large and versatile arsenal.
+		Added Unbanished, a pre-Collapse battlecarrier from a more civilized time. Basically an armored Conquest with carrier specs.
+		Armani:
+			Sprite polished, credits to BigBeans.
+			Collision polygon updated to reflect nuanced figure of the sprite.
+		Hek:
+			Added Recovery cost reduction by 25%.
+			Can now be installed with Makeshift Shield Generator.
+			Non-PD range bonus increased from 60% to 80%.
+			Armor Strength reduction reduced from 8x to 7x.
+			Hull increased from 40000 to 45000.
+			Flux Dissipation reduced from 500 to 400.
+			Ordinance points increased from 240 to 250.
+			Hangar Bay size increased from 3 to 4.
+			Top Speed increased from 20 to 25.
+		Neptune:
+			Ordinance points increased from 150 to 175.
+		Prevalent:
+			Hull reduced from 25000 to 18000.
+			Shield Efficiency increased from 1.4 to 1.2.
+		Oracle:
+			Replaced shipsystem Recall Device with Fortress Shield.
+			Unused Large Built-in turret removed.
+			Shield Upkeep reduced from 0.6 to 0.4
+
+**** Version 0.1.1a ****
+	Campaign:
+		Added missing spawn rates for Oracle and Prevalent.
+
+**** Version 0.1.1 ****
+	Ships:
+		Added Oracle, a High Tech juggernaut that has the combined firepower of the Paragon and wing composition of the Astral.
+		Added Prevalent, a heavier and up-armored Conquest with incredible staying power in mind. Has armor modules and a lot of larges.
+		Farbauti:
+			Fixed engine alignment.
+
+**** Version 0.1 ****
+	Released version.
