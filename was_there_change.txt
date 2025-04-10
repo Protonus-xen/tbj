@@ -1,3 +1,15 @@
+**** Version 0.2.2 ****
+	Campaign:
+		Added a threat.
+	MagicLib Bounty Board:
+		Added a bounty for a certain onslaught.
+	Ships:
+		Added Xeth, an "uncompromised" Anubis.
+			A very fast battlecruiser.
+			Added to Tri-Tachyon roster.
+		Overslaught:
+			Sprite updated.
+
 **** Version 0.2.1-RC1 ****
 	Ships:
 		Armani:
