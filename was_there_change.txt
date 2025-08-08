@@ -1,3 +1,15 @@
+**** Version 0.2.3 ****
+	Campaign:
+		Hegemony:
+			Will now actively prioritize spawning Overslaughts in addition to Onslaughts.
+		Tri-Tachyon:
+			Will properly spawn Oracles along with other capital ships.
+	Ships:
+		Added the requested Overslaught (XIV). Credits to justan4620.
+			Added to the Hegemony roster.
+		Overslaught:
+			Slightly moved modules to fit the sprite.
+
 **** Version 0.2.2 ****
 	Campaign:
 		Added a threat.
